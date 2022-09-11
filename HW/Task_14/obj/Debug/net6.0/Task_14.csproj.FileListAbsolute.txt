@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/bin/Debug/net6.0/Task_14
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/bin/Debug/net6.0/Task_14.deps.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/bin/Debug/net6.0/Task_14.runtimeconfig.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/bin/Debug/net6.0/Task_14.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/bin/Debug/net6.0/Task_14.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/refint/Task_14.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/Task_14.genruntimeconfig.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/HW/Task_14/obj/Debug/net6.0/ref/Task_14.dll

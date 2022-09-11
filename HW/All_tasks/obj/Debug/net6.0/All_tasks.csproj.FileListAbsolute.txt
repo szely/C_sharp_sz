@@ -1,0 +1,5 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/All_tasks/obj/Debug/net6.0/All_tasks.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/All_tasks/obj/Debug/net6.0/All_tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/All_tasks/obj/Debug/net6.0/All_tasks.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/All_tasks/obj/Debug/net6.0/All_tasks.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/All_tasks/obj/Debug/net6.0/All_tasks.csproj.CoreCompileInputs.cache

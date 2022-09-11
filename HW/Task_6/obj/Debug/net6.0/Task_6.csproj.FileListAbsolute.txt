@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/bin/Debug/net6.0/Task_6
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/bin/Debug/net6.0/Task_6.deps.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/bin/Debug/net6.0/Task_6.runtimeconfig.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/bin/Debug/net6.0/Task_6.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/bin/Debug/net6.0/Task_6.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/refint/Task_6.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/Task_6.genruntimeconfig.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Семинары/1./HW/Task_6/obj/Debug/net6.0/ref/Task_6.dll
