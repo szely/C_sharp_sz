@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/bin/Debug/net6.0/Example013_RecursionAlgorithm
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/bin/Debug/net6.0/Example013_RecursionAlgorithm.deps.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/bin/Debug/net6.0/Example013_RecursionAlgorithm.runtimeconfig.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/bin/Debug/net6.0/Example013_RecursionAlgorithm.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/bin/Debug/net6.0/Example013_RecursionAlgorithm.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/refint/Example013_RecursionAlgorithm.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/Example013_RecursionAlgorithm.genruntimeconfig.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Work/Examples/Example013_RecursionAlgorithm/obj/Debug/net6.0/ref/Example013_RecursionAlgorithm.dll

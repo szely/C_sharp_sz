@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/bin/Debug/net6.0/Example009_introArray
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/bin/Debug/net6.0/Example009_introArray.deps.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/bin/Debug/net6.0/Example009_introArray.runtimeconfig.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/bin/Debug/net6.0/Example009_introArray.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/bin/Debug/net6.0/Example009_introArray.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/refint/Example009_introArray.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/Example009_introArray.genruntimeconfig.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example009_introArray/obj/Debug/net6.0/ref/Example009_introArray.dll

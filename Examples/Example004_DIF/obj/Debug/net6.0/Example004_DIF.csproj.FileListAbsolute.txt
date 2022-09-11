@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/bin/Debug/net6.0/Example004_DIF
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/bin/Debug/net6.0/Example004_DIF.deps.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/bin/Debug/net6.0/Example004_DIF.runtimeconfig.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/bin/Debug/net6.0/Example004_DIF.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/bin/Debug/net6.0/Example004_DIF.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/refint/Example004_DIF.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/Example004_DIF.genruntimeconfig.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example004_DIF/obj/Debug/net6.0/ref/Example004_DIF.dll

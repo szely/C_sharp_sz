@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/bin/Debug/net6.0/Example005_IF
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/bin/Debug/net6.0/Example005_IF.deps.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/bin/Debug/net6.0/Example005_IF.runtimeconfig.json
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/bin/Debug/net6.0/Example005_IF.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/bin/Debug/net6.0/Example005_IF.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.AssemblyInfo.cs
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/refint/Example005_IF.dll
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.pdb
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/Example005_IF.genruntimeconfig.cache
+/Users/a1234/Desktop/ОБУЧЕНИЕ/GB/4. Знакомвство с языками программирования/Examples/Example005_IF/obj/Debug/net6.0/ref/Example005_IF.dll
